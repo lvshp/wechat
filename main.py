@@ -1,6 +1,6 @@
 import werobot
 
-robot = werobot.WeRoBot(token='lvspfacai')
+robot = werobot.WeRoBot(token='lvsp')
 
 @robot.handler
 def hello(message):
